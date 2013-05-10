@@ -1,0 +1,17 @@
+body {
+	background-image: none;
+}
+
+.main-search {
+	font-size: 30px;
+}
+
+.main-search input {
+	margin-left: 50px;
+	width: 250px;
+	height: 26px;
+}
+
+.results {
+	margin-top: 40px;
+}
